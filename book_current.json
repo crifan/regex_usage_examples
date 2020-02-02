@@ -1,0 +1,19 @@
+{
+  "title": "正则表达式应用举例",
+  "description": "整理正则表达式各个领域的应用，并给出实际使用案例，供参考",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "regex_usage_examples"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/regex_usage_examples/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/regex_usage_examples/pdf/regex_usage_examples.pdf"
+    }
+  }
+}
