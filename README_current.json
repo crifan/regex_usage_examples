@@ -1,7 +1,7 @@
 {
-  "latestVersion": "v1.0",
-  "lastUpdate": "20200202",
+  "latestVersion": "v1.1",
+  "lastUpdate": "20201223",
   "gitRepoName": "regex_usage_examples",
   "bookName": "正则表达式应用举例",
-  "bookDescription": "整理正则表达式各个领域的应用，并给出实际使用案例，供参考"
+  "bookDescription": "整理正则表达式各个领域的应用，并给出实际使用案例，包括各种编程语言中的实例，比如Javascript、Python中的BeautifulSoup、数据库中的MongoDB和MongoDB Compass，以及编辑器中的实例，包括Sublime、以及对正则支持的很好也很好用的VSCode。"
 }

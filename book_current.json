@@ -1,6 +1,6 @@
 {
   "title": "正则表达式应用举例",
-  "description": "整理正则表达式各个领域的应用，并给出实际使用案例，供参考",
+  "description": "整理正则表达式各个领域的应用，并给出实际使用案例，包括各种编程语言中的实例，比如Javascript、Python中的BeautifulSoup、数据库中的MongoDB和MongoDB Compass，以及编辑器中的实例，包括Sublime、以及对正则支持的很好也很好用的VSCode。",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [
