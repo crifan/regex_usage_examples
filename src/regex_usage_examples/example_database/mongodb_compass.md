@@ -25,6 +25,7 @@ grading
 {"grading.lexile": {"$regex": "AD.*"}}
 ```
 
-详见：
+具体详见：
 
-【整理Book】主流文档型数据库：MongoDB
+[高级搜索 · 主流文档型数据库：MongoDB (crifan.org)](https://book.crifan.org/books/popular_document_db_mongodb/website/summary_note/record/find_query/advanced.html)
+

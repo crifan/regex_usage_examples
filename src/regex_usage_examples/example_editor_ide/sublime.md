@@ -10,12 +10,10 @@
 
 可以从一堆的js中的script的值中：
 
-```html
-
+```js
 {"webCommandMetadata":{"url":"/watch?v=23t1f8d2ISs\u0026list=PLHOR8x-IicVJDAmJWZmJ-IMu1x3lTAld5\u0026index=1",”webPageType"
 
 {"webCommandMetadata":{"url":"/watch?v=au7Nkr-5MA8\u0026list=PLHOR8x-IicVJDAmJWZmJ-IMu1x3lTAld5\u0026index=14",”webPageType"
-
 ```
 
 搜索出所要的内容，此处有77个符合需要的内容：`1/77`

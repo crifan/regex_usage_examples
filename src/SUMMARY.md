@@ -5,6 +5,7 @@
 * [正则应用举例](regex_usage_examples/README.md)
   * [JavaScript](regex_usage_examples/example_js.md)
   * [Python](regex_usage_examples/example_python/README.md)
+    * [re](regex_usage_examples/example_python/re.md)
     * [BeautifulSoup](regex_usage_examples/example_python/beautifulsoup.md)
   * [数据库](regex_usage_examples/example_database/README.md)
     * [MongoDB](regex_usage_examples/example_database/mongodb.md)
